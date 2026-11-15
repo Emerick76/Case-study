@@ -1,0 +1,8 @@
+# Python packages used by CS1_code.ipynb (minimum versions; same environment as Homework 1)
+numpy>=2.5.2
+pandas>=3.0.5
+scipy>=1.18.1
+statsmodels>=0.15.0
+matplotlib>=3.11.1
+# to run the notebook: Jupyter, or `jupyter nbconvert --to notebook --execute CS1_code.ipynb`
+jupyter>=1.1.1
